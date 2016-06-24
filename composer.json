@@ -8,8 +8,10 @@
     "license": "MIT",
 
     "repositries": [
-        "type": "git",
-        "url": "git@github.com:genkiroid/PHP-Token-Reflection.git"
+        {
+            "type": "git",
+            "url": "git@github.com:genkiroid/PHP-Token-Reflection.git"
+        }
     ],
     "require": {
         "php": ">=5.3.0",
